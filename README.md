@@ -23,3 +23,17 @@ Gestão de Equipe: Tenha uma visão clara de cada membro da equipe, suas funçõ
 Controle de Recursos: Verifique a disponibilidade e o tipo dos recursos necessários para cada tarefa e projeto.
 Acompanhamento de Tarefas: Mantenha o controle sobre o progresso das tarefas com status de andamento, datas e responsáveis.
 Organização de Projetos: Centralize todas as informações de cada projeto, garantindo fácil acesso a dados e documentos críticos.
+
+Participantes:
+
+Ryan: https://github.com/Ryan182005/BancoDeDados-Celio-
+
+Eric: https://github.com/Gete600/Banco-de-Dados-EricTrimer-
+
+Jessica: https://github.com/jessica0liveira
+
+Matheus: https://github.com/Matheuscalasas1
+
+Renan: https://github.com/renak7
+
+João: https://github.com/JoaoPedroLDSF/BancoDeDados
