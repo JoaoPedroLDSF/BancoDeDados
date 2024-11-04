@@ -30,10 +30,10 @@ Ryan: https://github.com/Ryan182005/BancoDeDados-Celio-
 
 Eric: https://github.com/Gete600/Banco-de-Dados-EricTrimer-
 
-Jessica: https://github.com/jessica0liveira
+Jessica: https://github.com/jessica0liveira/Banco-de-dados
 
 Matheus: https://github.com/Matheuscalasas1
 
-Renan: https://github.com/renak7
+Renan: https://github.com/renak7/Celio-Banco_de_dados
 
 João: https://github.com/JoaoPedroLDSF/BancoDeDados
